@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_of_start_button">30dp</dimen>
+    <dimen name="size_of_start_button">35sp</dimen>
+    <dimen name="margin_of_end_button">12dp</dimen>
+    <dimen name="size_of_end_button">20sp</dimen>
+    <dimen name="text_of_recycler">30sp</dimen>
+    <dimen name="edit_of_add">28sp</dimen>
+    <dimen name="text_of_recycler_hist">26sp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/History"
+    android:title="History"
+    ></item>
+    <item
+        android:id="@+id/addStudent"
+        android:title="addStudent"
+        ></item>
+    <item
+        android:id="@+id/absentsOrPresents"
+        android:title="abs/pre"
+        app:showAsAction="always"
+        ></item>
+</menu>
